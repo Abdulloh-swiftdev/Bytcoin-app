@@ -1,4 +1,4 @@
-# Bytcoin-app
+# Bytecoin-app
 This app was made by using an api
 
 It has dark mode light mode
